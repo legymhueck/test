@@ -1,0 +1,1 @@
+music.playMelody("", 120)
